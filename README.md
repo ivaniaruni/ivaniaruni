@@ -34,6 +34,6 @@ I'm always open to collaboration, learning, or just geeking out over good code.
 
 ---
 
-> *"Code is more than syntax — it's a bridge between ideas, people, and solutions."*
+[![GitHub Streak](https://streak-stats.demolab.com?user=ivaniaruni&theme=dark)](https://git.io/streak-stats)
 
 
