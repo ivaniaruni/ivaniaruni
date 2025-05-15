@@ -32,8 +32,4 @@ I'm always open to collaboration, learning, or just geeking out over good code.
 📫 Email: iarunichevivan@gmail.com  
 🔗 GitHub: [github.com/ivaniaruni](https://github.com/ivaniaruni)
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivaniaruni&theme=dark)](https://git.io/streak-stats)
-
 
