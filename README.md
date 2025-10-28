@@ -1,8 +1,10 @@
 # 👋 Hi there! I'm Iván Iarunichev
 
-I'm currently studying **Web Development Internship** in Asturias, Spain, where I've been living for the past 7 years. Originally from Russia, I bring a multicultural perspective to everything I do — including code.
+I'm a passionate and adaptable software developer currently pursuing a dual internship as part of my Advanced Vocational Training in Multiplatform Application Development (Asturias, Spain). Originally from Russia and based in Oviedo, I bring a multicultural perspective and a strong drive for continuous learning to every project.
 
-I'm passionate about **web development** and building clean, user-friendly digital experiences. My journey started with HTML, CSS, and JavaScript, and now I'm diving deeper into **Java, SQL, XML, and RSS** as part of my technical training.
+With hands-on experience in web and software development, I have built projects using HTML, CSS, JavaScript, Java, SQL, Spring, and Angular. My training also covers modern tools like Kotlin, Figma, and Git, as well as industry platforms such as Grafana, Odoo, Jenkins, and Dolibarr.
+
+I believe in clean code, practical solutions, and collaborative teamwork. My goal is to create efficient digital experiences—always seeking to expand my expertise and contribute to impactful projects.
 
 ## 🔧 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -24,8 +26,14 @@ I'm passionate about **web development** and building clean, user-friendly digit
 ## 🚀 Projects
 Here are a few highlights — check them out in the repositories!
 
-![github repo card](https://readme-cards.vercel.app/repo-card?name=ivaniaruni&repo=my-project_traiviu.com)
-![github repo card](https://readme-cards.vercel.app/repo-card?name=ivaniaruni&repo=my-project_happinnes-co)
+
+<div align="center">
+
+![repo card](https://github-readme-stats.vercel.app/api/pin/?username=ivaniaruni&repo=my-project_traiviu.com&theme=dark)
+&nbsp;&nbsp;&nbsp;
+![repo card](https://github-readme-stats.vercel.app/api/pin/?username=ivaniaruni&repo=my-project_happinnes-co&theme=dark)
+
+</div>
 
 ## 🌱 What I'm working on
 I'm currently:
@@ -37,9 +45,9 @@ I'm currently:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ivaniaruni&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗣️ Languages
-- **Spanish**: Native  
-- **Russian**: Native  
-- **English**: Intermediate (working on it!)
+- Spanish: Native  
+- Russian: Native  
+- English: Intermediate (working on it!)
 
 ## 🙌 Let's connect!
 I'm always open to collaboration, learning, or just geeking out over good code.    
